@@ -50,7 +50,6 @@ class DetailViewController: UIViewController {
         
         setupCommentCell()
         setupLabels()
-        commentsTableView.estimatedRowHeight = 100
     }
     
     
